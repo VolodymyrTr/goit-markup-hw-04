@@ -409,6 +409,7 @@ img {
 
 .footer-container {
     display: flex;
+    align-items: baseline
 }
 
 .div-footer {
