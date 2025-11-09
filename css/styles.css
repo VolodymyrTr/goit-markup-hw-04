@@ -407,9 +407,11 @@ img {
     padding: 100px 0;
 }
 
-.div-footer {
+.footer-container {
     display: flex;
-    align-items: baseline;
+}
+
+.div-footer {
     margin-right: 120px;
     }
    
@@ -436,6 +438,11 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+.div-footer-social {
+    
+    align-items: baseline;
 }
 
 .div-footer-text {
